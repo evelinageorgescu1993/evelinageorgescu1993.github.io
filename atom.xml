@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://protectiaanimalelor.imbold.info/"/>
-  <updated>2016-10-08T07:17:22.812Z</updated>
+  <updated>2016-10-08T18:51:08.932Z</updated>
   <id>http://protectiaanimalelor.imbold.info/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Colecţie de duioşenii</title>
+    <link href="http://protectiaanimalelor.imbold.info/colectie-de-duiosenii/"/>
+    <id>http://protectiaanimalelor.imbold.info/colectie-de-duiosenii/</id>
+    <published>2016-10-08T18:48:08.000Z</published>
+    <updated>2016-10-08T18:51:08.932Z</updated>
+    
+    <summary type="html">
+    
+      O colecţie de animăluţe duioase
+    
+    </summary>
+    
+      <category term="Duioşenii" scheme="http://protectiaanimalelor.imbold.info/categories/duiosenii/"/>
+    
+    
+      <category term="măTopesc" scheme="http://protectiaanimalelor.imbold.info/tags/matopesc/"/>
+    
+  </entry>
   
   <entry>
     <title>Nu te poţi ascunde de vulpea roşie</title>
