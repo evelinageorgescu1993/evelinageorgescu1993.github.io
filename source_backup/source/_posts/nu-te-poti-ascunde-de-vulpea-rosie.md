@@ -1,5 +1,5 @@
 ---
-title: Nu te poţi asunde de vulpea roşie
+title: Nu te poţi ascunde de vulpea roşie
 categories:
   - Vulpe
 tags:
